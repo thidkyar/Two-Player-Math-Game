@@ -1,5 +1,5 @@
 require './game.rb'
 
-game = Game.new
+game = Game.new('Taran', 'AnothaWun', 1, 10)
 
 game.play
